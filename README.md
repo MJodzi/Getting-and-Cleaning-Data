@@ -8,6 +8,7 @@ In this repo I have posted my Course Project for the Coursera class Getting and 
 2. README.txt (this file)
 3. run_activity.R (the actual assignment)
 4. a CodeBook.md (more detailed information on the dataset, etc)
+5. tidyData.txt
 
 ## The Data
 
